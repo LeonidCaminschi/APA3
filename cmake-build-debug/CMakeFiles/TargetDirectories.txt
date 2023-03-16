@@ -1,3 +1,0 @@
-/home/leonidas/APA3/cmake-build-debug/CMakeFiles/APA3.dir
-/home/leonidas/APA3/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/leonidas/APA3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
